@@ -1,0 +1,2 @@
+Pull remote changes - git pull
+Sync branch names between remote and local - git remote update origin --prune
