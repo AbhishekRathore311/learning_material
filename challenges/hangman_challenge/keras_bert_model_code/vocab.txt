@@ -24,8 +24,4 @@ w
 x
 y
 z
-[UNK]
-[SEP]
-[PAD]
-[CLS]
-[MASK]
+_
